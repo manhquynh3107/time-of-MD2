@@ -17,15 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Sites.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +81,7 @@
       <workItem from="1601952414057" duration="383000" />
       <workItem from="1601952821101" duration="6474000" />
       <workItem from="1601978141141" duration="13775000" />
-      <workItem from="1602121138732" duration="10248000" />
+      <workItem from="1602121138732" duration="10488000" />
     </task>
     <servers />
   </component>
@@ -148,10 +140,10 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="512" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1602052759726" />
-    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602123076098">
+    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602147320992">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.808@0.23.1440.808" timestamp="1602123076098" />
+    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.808@0.23.1440.808" timestamp="1602147320992" />
     <state x="482" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601953239979">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
