@@ -19,3 +19,6 @@ class Cylinder extends Circle {
         return parent::calculateArea() * $this->height;
     }
 }
+$cylinder = new Cylinder('Cylinder 2020',10,10);
+echo 'Cylinder Area: ' . $cylinder->calculateArea() . '<br />';
+echo 'Cylinder Perimeter: ' . $cylinder->calculatePerimeter() . '<br />';
