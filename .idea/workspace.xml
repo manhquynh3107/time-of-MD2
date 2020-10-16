@@ -19,45 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT Queue/Node.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT Queue/Queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case-MD2-Quynh/CSS Sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case-MD2-Quynh/HTML Code.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dao_Nguoc_Stack/Stack.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kham_Benh/Patient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kham_Benh/Queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phuong_Trinh_Bac_Hai/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set_up_Simple_Class/Array_List.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set_up_Simple_Class/list_Integer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple_LinkedList/LinkedList.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple_LinkedList/node.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/Stack.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ung_Dung_Doc So_Thanh_Chu/Bai Tap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_Rectangle/class rectangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_Rectangle/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_Datastructure/Dancer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testEmail/Email.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testEmail/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testEmail/testTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_Node/Node.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_Node/demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_Node/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Sites.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sites.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Danh Sach Khach Hang/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIgn in/Sign in.php" beforeDir="false" afterPath="$PROJECT_DIR$/Sign_in/Sign_in.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Circle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Cylinder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Rectangle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Shape.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Square.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +119,7 @@
       <workItem from="1602636057515" duration="10251000" />
       <workItem from="1602736906784" duration="6045000" />
       <workItem from="1602772950658" duration="2283000" />
-      <workItem from="1602809552751" duration="834000" />
+      <workItem from="1602809552751" duration="1403000" />
     </task>
     <servers />
   </component>
@@ -234,6 +196,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="489" y="369" key="ComposerInitDialogKey/0.0.1440.900@0.0.1440.900" timestamp="1602773273632" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1602813783806">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1602813783806" />
     <state x="509" y="153" key="NewPhpClassDialog" timestamp="1602812246305">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
