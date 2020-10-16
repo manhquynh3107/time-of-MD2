@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -17,39 +20,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Danh Sach Khach Hang/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SIgn in/Sign in.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT Queue/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT Queue/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case-MD2-Quynh/CSS Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case-MD2-Quynh/HTML Code.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dao_Nguoc_Stack/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kham_Benh/Patient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kham_Benh/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phuong_Trinh_Bac_Hai/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_up_Simple_Class/Array_List.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_up_Simple_Class/list_Integer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple_LinkedList/LinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple_LinkedList/node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ung_Dung_Doc So_Thanh_Chu/Bai Tap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_Rectangle/class rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_Rectangle/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_Datastructure/Dancer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testEmail/Email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testEmail/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testEmail/testTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Node/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Node/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Node/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Sites.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sites.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test php/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Danh Sach Khach Hang/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIgn in/Sign in.php" beforeDir="false" afterPath="$PROJECT_DIR$/Sign_in/Sign_in.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Shape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/Square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Đếm Số Lượng Đối Tượng Của Một Lớp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Đếm_Số_Lượng_Đối_Tượng_Của_Một_Lớp/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/testEmail/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="composer.json" />
         <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="a933c9aaa3f4fd29b7bf4fe2ad91f0a1795f1060" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iUBhuwz2VEOKptCOMHp6ZzSpGh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -68,11 +111,30 @@
       <recent name="$PROJECT_DIR$/demo signin" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHPUnit.Sites">
+    <configuration name="TennisGame.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/Game-tennis-refactoring/TennisGame.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CalculatorTest" file="$PROJECT_DIR$/php_cleancode_refactoring_renaming/tests/CalculatorTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
     <configuration name="Sites" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner directory="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="TennisGameMain.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Game-tennis-refactoring/TennisGameMain.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.CalculatorTest" />
+        <item itemvalue="PHP Script.TennisGameMain.php" />
+        <item itemvalue="JavaScript Debug.TennisGame.php" />
+        <item itemvalue="PHPUnit.CalculatorTest" />
+        <item itemvalue="PHP Script.TennisGameMain.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,7 +150,14 @@
       <workItem from="1602121138732" duration="10807000" />
       <workItem from="1602218804294" duration="1970000" />
       <workItem from="1602227933168" duration="4999000" />
-      <workItem from="1602294036768" duration="11101000" />
+      <workItem from="1602294036768" duration="22338000" />
+      <workItem from="1602464211431" duration="6772000" />
+      <workItem from="1602550230234" duration="6950000" />
+      <workItem from="1602602707767" duration="1156000" />
+      <workItem from="1602636057515" duration="10251000" />
+      <workItem from="1602736906784" duration="6045000" />
+      <workItem from="1602772950658" duration="2283000" />
+      <workItem from="1602809552751" duration="834000" />
     </task>
     <servers />
   </component>
@@ -127,9 +196,10 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="319" y="92" key="#Deployment/0.23.1440.808@0.23.1440.808" timestamp="1601953411771" />
-    <state x="354" y="112" key="#Inspections" timestamp="1602034873648">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="354" y="99" key="#Inspections" timestamp="1602745223967">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="354" y="99" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1602745223967" />
     <state x="354" y="112" key="#Inspections/0.23.1440.808@0.23.1440.808" timestamp="1602034873648" />
     <state x="412" y="76" key="#PHP" timestamp="1601953305372">
       <screen x="0" y="23" width="1440" height="808" />
@@ -147,22 +217,33 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="512" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1602052759726" />
-    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602147320992">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="529" y="285" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602486746860">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="529" y="285" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1602486746860" />
+    <state x="458" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602663221094">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602663221094" />
     <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.808@0.23.1440.808" timestamp="1602147320992" />
     <state x="482" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601953239979">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="482" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.808@0.23.1440.808" timestamp="1601953239979" />
-    <state x="509" y="160" key="NewPhpClassDialog" timestamp="1602222297081">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="489" y="369" key="ComposerInitDialogKey" timestamp="1602773273632">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="489" y="369" key="ComposerInitDialogKey/0.0.1440.900@0.0.1440.900" timestamp="1602773273632" />
+    <state x="509" y="153" key="NewPhpClassDialog" timestamp="1602812246305">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="153" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1602812246305" />
     <state x="509" y="160" key="NewPhpClassDialog/0.23.1440.808@0.23.1440.808" timestamp="1602222297081" />
-    <state x="543" y="357" key="NewPhpFileDialog" timestamp="1602328866591">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1602752888430">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="543" y="357" key="NewPhpFileDialog/0.23.1440.808@0.23.1440.808" timestamp="1602328866591" />
+    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1602752888430" />
+    <state x="543" y="357" key="NewPhpFileDialog/0.23.1440.808@0.23.1440.808" timestamp="1602431420431" />
     <state x="229" y="66" key="SettingsEditor" timestamp="1601978203189">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
@@ -171,17 +252,27 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="500" height="400" key="SwitcherDM/0.23.1440.808@0.23.1440.808" timestamp="1601967901733" />
-    <state x="469" y="244" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1602052692280">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1602556091363">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1602556091363" />
+    <state x="173" y="246" width="1267" height="492" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1602653143786">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="173" y="246" width="1267" height="492" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1602653143786" />
     <state x="469" y="244" key="com.jetbrains.php.test.PhpNewTestDialog/0.23.1440.808@0.23.1440.808" timestamp="1602052692280" />
+    <state x="567" y="231" key="refactoring.ChangeSignatureDialog" timestamp="1602664079771">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="567" y="231" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1602664079771" />
     <state x="385" y="193" key="run.anything.popup" timestamp="1601953220707">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="385" y="193" key="run.anything.popup/0.23.1440.808@0.23.1440.808" timestamp="1601953220707" />
-    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1602233051871">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup" timestamp="1602581181429">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602581181429" />
     <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1602233051871" />
   </component>
 </project>
