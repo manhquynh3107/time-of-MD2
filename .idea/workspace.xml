@@ -19,7 +19,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="" />
+    <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Gan_Ban_Nhay_O_Square_Dance/Dancer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_Datastructure/Dancer.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +123,7 @@
       <workItem from="1602636057515" duration="10251000" />
       <workItem from="1602736906784" duration="6045000" />
       <workItem from="1602772950658" duration="2283000" />
-      <workItem from="1602809552751" duration="1403000" />
+      <workItem from="1602809552751" duration="3328000" />
     </task>
     <servers />
   </component>
