@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chuyen_Doi_He_Thap_Phan_Sang_He_Nhi_Phan/Stack.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gan_Ban_Nhay_O_Square_Dance/test_Dancer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiem_Tra_Doi_Xung_Queue/Queue.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gan_Ban_Nhay_O_Square_Dance/Dancer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Gan_Ban_Nhay_O_Square_Dance/Dancer.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +126,7 @@
       <workItem from="1602840334656" duration="166000" />
       <workItem from="1602852074972" duration="193000" />
       <workItem from="1602858347791" duration="498000" />
-      <workItem from="1602911009318" duration="1081000" />
+      <workItem from="1602911009318" duration="1716000" />
     </task>
     <servers />
   </component>
@@ -210,15 +207,15 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1602813783806" />
-    <state x="509" y="153" key="NewPhpClassDialog" timestamp="1602833572836">
+    <state x="509" y="153" key="NewPhpClassDialog" timestamp="1602923411476">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="509" y="153" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1602833572836" />
+    <state x="509" y="153" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1602923411476" />
     <state x="509" y="160" key="NewPhpClassDialog/0.23.1440.808@0.23.1440.808" timestamp="1602222297081" />
-    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1602913989148">
+    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1602923404176">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1602913989148" />
+    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1602923404176" />
     <state x="543" y="357" key="NewPhpFileDialog/0.23.1440.808@0.23.1440.808" timestamp="1602431420431" />
     <state x="229" y="66" key="SettingsEditor" timestamp="1601978203189">
       <screen x="0" y="23" width="1440" height="808" />
@@ -245,10 +242,10 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="385" y="193" key="run.anything.popup/0.23.1440.808@0.23.1440.808" timestamp="1601953220707" />
-    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup" timestamp="1602822230879">
+    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup" timestamp="1602923398560">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602822230879" />
+    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602923398560" />
     <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1602233051871" />
   </component>
   <component name="XDebuggerManager">
@@ -256,7 +253,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/Chuyen_Doi_He_Thap_Phan_Sang_He_Nhi_Phan/Stack.php</url>
-          <line>6</line>
+          <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
