@@ -15,10 +15,10 @@ class Dancer
 $queue1 = new SplQueue();
 $queue2 = new SplQueue();
 
-$dancer1 = new Dancer("Quynh", "Male");
+$dancer1 = new Dancer("Quynh dep trai", "Male");
 $dancer2 = new Dancer("Quynh", "Male");
 $dancer3 = new Dancer("Quynh", "Male");
-$dancer4 = new Dancer("Quynh", "Male");
+$dancer4 = new Dancer("Quynh Dep Trai ", "Male");
 
 $dancer15 = new Dancer("Quynh", "male");
 $dancer16 = new Dancer("Quynh", "male");
