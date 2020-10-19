@@ -29,17 +29,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "<pre>";
     print_r($textArea);
     echo "</pre>";
-    $viet = ["086", "096", "097", "098", "032", "033", "034", "035", "036", "037", "038", "039"];
-    $vina = ["088", "091", "094", "083", "084", "085", "081", "082"];
-    $mobi = ["089", "090", "093", "070", "079", "077", "076", "078"];
+    $viettel = ["086", "096", "097", "098", "032", "033", "034", "035", "036", "037", "038", "039"];
+    $vinaphone = ["088", "091", "094", "083", "084", "085", "081", "082"];
+    $mobiphone = ["089", "090", "093", "070", "079", "077", "076", "078"];
 
 
     for ($i = 0; $i < count($textArea); $i++) {
         $number = str_split($textArea[$i], 3);
 
-        if (in_array($number[0], $viet)) {
+        if (in_array($number[0], $viettel)) {
             array_push($viettel, $textArea[$i]);
-        } elseif (in_array($number[0], $vina)) {
+        } elseif (in_array($number[0], $vinaphone)) {
             array_push($vinaphone, $textArea[$i]);
         } elseif (in_array($number[0], $mobi)) {
             array_push($mobiphone, $textArea[$i]);
