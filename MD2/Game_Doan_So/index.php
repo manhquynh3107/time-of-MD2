@@ -34,12 +34,14 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 
             if ($arr[$mid] > $number) {
                 $last = $mid - 1;
-                echo "Nhap so lon hon";
                 echo "<br>";
+                echo "Nhap so lon hon";
+
             } elseif ($arr[$mid] < $number) {
                 $first = $mid + 1;
-                echo "Nhap so nho hon";
                 echo "<br>";
+                echo "Nhap so nho hon";
+
             } else {
                 return true;
             }

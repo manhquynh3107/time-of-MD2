@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dem_So_Lan_Xuat_Hien/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Dem_So_Lan_Xuat_Hien/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tim_Kiem_Nhi_Phan/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Tim_Kiem_Nhi_Phan/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="a933c9aaa3f4fd29b7bf4fe2ad91f0a1795f1060" />
+        <entry key="$PROJECT_DIR$" value="2d3176016fe4301f2e028bca4adf0cbb0413471f" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,6 +72,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MD2" />
+      <recent name="$PROJECT_DIR$/COMPOSER" />
       <recent name="$PROJECT_DIR$/Tim_Kiem_Nhi_Phan" />
       <recent name="$PROJECT_DIR$/demo signin" />
     </key>
@@ -130,6 +130,7 @@
       <workItem from="1602858347791" duration="498000" />
       <workItem from="1602911009318" duration="4644000" />
       <workItem from="1603042014620" duration="7042000" />
+      <workItem from="1603093659425" duration="678000" />
     </task>
     <servers />
   </component>
