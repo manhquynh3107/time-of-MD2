@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dem_So_Lan_Xuat_Hien/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_Doan_So/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phan_Loai_So_Dien_Thoai/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tim_Kiem_Gia_Tri_Lon_Nho_Nhat/find_min_and_max.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tim_Kiem_Nhi_Phan/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tim_Kiem_Nhi_Phan/tim_kiem_nhi_phan_De_Quy.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/Stack.php" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/Stack.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_Node/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/test_Node/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/.phpunit.result.cache" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/.phpunit.result.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +129,7 @@
       <workItem from="1602852074972" duration="193000" />
       <workItem from="1602858347791" duration="498000" />
       <workItem from="1602911009318" duration="4644000" />
-      <workItem from="1603042014620" duration="2444000" />
+      <workItem from="1603042014620" duration="4473000" />
     </task>
     <servers />
   </component>
@@ -221,10 +216,10 @@
     </state>
     <state x="509" y="153" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1603042172231" />
     <state x="509" y="160" key="NewPhpClassDialog/0.23.1440.808@0.23.1440.808" timestamp="1602222297081" />
-    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1603044023827">
+    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1603073470433">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1603044023827" />
+    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1603073470433" />
     <state x="543" y="357" key="NewPhpFileDialog/0.23.1440.808@0.23.1440.808" timestamp="1602431420431" />
     <state x="229" y="66" key="SettingsEditor" timestamp="1601978203189">
       <screen x="0" y="23" width="1440" height="808" />
@@ -247,14 +242,15 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="567" y="231" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1602664079771" />
-    <state x="385" y="193" key="run.anything.popup" timestamp="1601953220707">
-      <screen x="0" y="23" width="1440" height="808" />
-    </state>
-    <state x="385" y="193" key="run.anything.popup/0.23.1440.808@0.23.1440.808" timestamp="1601953220707" />
-    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup" timestamp="1602923398560">
+    <state x="385" y="189" key="run.anything.popup" timestamp="1603072151386">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602923398560" />
+    <state x="385" y="189" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1603072151386" />
+    <state x="385" y="193" key="run.anything.popup/0.23.1440.808@0.23.1440.808" timestamp="1601953220707" />
+    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup" timestamp="1603073429554">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603073429554" />
     <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1602233051871" />
   </component>
   <component name="XDebuggerManager">
