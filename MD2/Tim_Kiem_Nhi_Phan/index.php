@@ -27,7 +27,7 @@ if (binarySearch($numbers, $number) !== FALSE) {
     echo "$number Not found \n";
 }
 
-$number = 501;
+$number = 07;
 if (binarySearch($numbers, $number) !== FALSE) {
     echo "$number Found \n";
 } else {
