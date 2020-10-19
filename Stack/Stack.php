@@ -61,4 +61,4 @@ var_dump($stack->isEmpty());
 
 echo "<pre>";
 print_r($stack->getStack());
-echo "<pre>";
+echo "<pre/>";

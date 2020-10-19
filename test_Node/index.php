@@ -2,7 +2,7 @@
 include 'Node.php';
 include 'demo.php';
 
-$LINK = new demo();
+$LINK = new index();
 $LINK->addFirst(3);
 $LINK->addFirst(4);
 $LINK->addFirst(5);

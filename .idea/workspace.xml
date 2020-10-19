@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Kiem_Tra_Doi_Xung_Queue/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dem_So_Lan_Xuat_Hien/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_Doan_So/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phan_Loai_So_Dien_Thoai/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tim_Kiem_Gia_Tri_Lon_Nho_Nhat/find_min_and_max.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tim_Kiem_Nhi_Phan/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/Stack.php" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/Stack.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Node/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/test_Node/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +79,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tim_Kiem_Nhi_Phan" />
       <recent name="$PROJECT_DIR$/demo signin" />
     </key>
   </component>
@@ -126,7 +133,8 @@
       <workItem from="1602840334656" duration="166000" />
       <workItem from="1602852074972" duration="193000" />
       <workItem from="1602858347791" duration="498000" />
-      <workItem from="1602911009318" duration="1716000" />
+      <workItem from="1602911009318" duration="4644000" />
+      <workItem from="1603042014620" duration="2444000" />
     </task>
     <servers />
   </component>
@@ -186,10 +194,10 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="512" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1602052759726" />
-    <state x="529" y="285" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602486746860">
+    <state x="529" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603071690403">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="529" y="285" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1602486746860" />
+    <state x="529" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1603071690403" />
     <state x="458" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602663221094">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -203,19 +211,20 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="489" y="369" key="ComposerInitDialogKey/0.0.1440.900@0.0.1440.900" timestamp="1602773273632" />
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1602813783806">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1602951234328">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1602813783806" />
-    <state x="509" y="153" key="NewPhpClassDialog" timestamp="1602923411476">
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.827@0.23.1440.827" timestamp="1602951234328" />
+    <state x="509" y="153" key="NewPhpClassDialog" timestamp="1603042172231">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="509" y="153" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1602923411476" />
+    <state x="509" y="153" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1603042172231" />
     <state x="509" y="160" key="NewPhpClassDialog/0.23.1440.808@0.23.1440.808" timestamp="1602222297081" />
-    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1602923404176">
+    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1603044023827">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1602923404176" />
+    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1603044023827" />
     <state x="543" y="357" key="NewPhpFileDialog/0.23.1440.808@0.23.1440.808" timestamp="1602431420431" />
     <state x="229" y="66" key="SettingsEditor" timestamp="1601978203189">
       <screen x="0" y="23" width="1440" height="808" />
