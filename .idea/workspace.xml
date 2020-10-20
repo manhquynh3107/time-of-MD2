@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Bubble_Sort/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Insert_Sort/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Selection_Sort/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST_MD2/test Algorthim/test NOI BOT.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST_MD2/test Phan Loai So Dien Thoai/demo SDT.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD2/Game_Doan_So/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MD2/Game_Doan_So/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Bubble_Sort/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Bubble_Sort/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Insert_Sort/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Insert_Sort/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Selection_Sort/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Selection_Sort/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST_MD2/test Algorthim/test NOI BOT.php" beforeDir="false" afterPath="$PROJECT_DIR$/TEST_MD2/test Algorthim/test NOI BOT.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +135,7 @@
       <workItem from="1602911009318" duration="4644000" />
       <workItem from="1603042014620" duration="7042000" />
       <workItem from="1603093659425" duration="6930000" />
-      <workItem from="1603119180361" duration="4480000" />
+      <workItem from="1603119180361" duration="7781000" />
     </task>
     <servers />
   </component>
