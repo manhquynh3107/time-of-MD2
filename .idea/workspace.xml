@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Bubble_Sort/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Insert_Sort/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Selection_Sort/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST_MD2/test Algorthim/test NOI BOT.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST_MD2/test Phan Loai So Dien Thoai/demo SDT.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD2/Dem_So_Lan_Xuat_Hien/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MD2/Dem_So_Lan_Xuat_Hien/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD2/Game_Doan_So/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MD2/Game_Doan_So/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +137,8 @@
       <workItem from="1602858347791" duration="498000" />
       <workItem from="1602911009318" duration="4644000" />
       <workItem from="1603042014620" duration="7042000" />
-      <workItem from="1603093659425" duration="1807000" />
+      <workItem from="1603093659425" duration="6930000" />
+      <workItem from="1603119180361" duration="4480000" />
     </task>
     <servers />
   </component>
@@ -200,6 +207,10 @@
     </state>
     <state x="458" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602663221094" />
     <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.808@0.23.1440.808" timestamp="1602147320992" />
+    <state x="583" y="146" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function1" timestamp="1603100948912">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="583" y="146" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function1/0.0.1440.900@0.0.1440.900" timestamp="1603100948912" />
     <state x="482" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601953239979">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
@@ -213,15 +224,15 @@
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1602813783806" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.827@0.23.1440.827" timestamp="1602951234328" />
-    <state x="509" y="153" key="NewPhpClassDialog" timestamp="1603042172231">
+    <state x="509" y="153" key="NewPhpClassDialog" timestamp="1603155326758">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="509" y="153" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1603042172231" />
+    <state x="509" y="153" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1603155326758" />
     <state x="509" y="160" key="NewPhpClassDialog/0.23.1440.808@0.23.1440.808" timestamp="1602222297081" />
-    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1603073470433">
+    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1603174097858">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1603073470433" />
+    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1603174097858" />
     <state x="543" y="357" key="NewPhpFileDialog/0.23.1440.808@0.23.1440.808" timestamp="1602431420431" />
     <state x="229" y="66" key="SettingsEditor" timestamp="1601978203189">
       <screen x="0" y="23" width="1440" height="808" />
@@ -240,6 +251,10 @@
     </state>
     <state x="173" y="246" width="1267" height="492" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1602653143786" />
     <state x="469" y="244" key="com.jetbrains.php.test.PhpNewTestDialog/0.23.1440.808@0.23.1440.808" timestamp="1602052692280" />
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup" timestamp="1603096531658">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup/0.0.1440.900@0.0.1440.900" timestamp="1603096531658" />
     <state x="567" y="231" key="refactoring.ChangeSignatureDialog" timestamp="1602664079771">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -249,10 +264,10 @@
     </state>
     <state x="385" y="189" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1603072151386" />
     <state x="385" y="193" key="run.anything.popup/0.23.1440.808@0.23.1440.808" timestamp="1601953220707" />
-    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup" timestamp="1603073429554">
+    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup" timestamp="1603100444960">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603073429554" />
+    <state x="385" y="147" width="670" height="753" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603100444960" />
     <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1602233051871" />
   </component>
   <component name="XDebuggerManager">

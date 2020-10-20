@@ -5,18 +5,16 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Phân Loại Số Điện Thoại</title>
 </head>
 <body>
 
-<form method="post">
-    Input Number: <br>
-    <input type="text" name="inputNumber" placeholder="InputNumber"><br>
-    <input type="text" name="checkNumber" placeholder="check"><br>
-
-    <button type="submit">Submit</button>
-    <button type="submit">Check</button>
-</form>
+<form method="post" >
+    Input Number: <br/>
+    <input type="text" name="inputNumber" placeholder="InputNumber"><br/>
+    <button type="submit">Submit</button><br><br/>
+    <input type="text" name="checkNumber" placeholder="Check"><br/>
+    <button type="submit">Check</button><br><br/>
 
 
 <?php
@@ -53,14 +51,11 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
     for ($i = 0; $i <= 100; $i++) {
         array_push($arr, $i);
     }
-
-
     if (checkNumber($inputNumber, $arr)) {
         echo "Tro choi ket thuc";
     } else {
         echo "Khong co gia tri";
     }
-
 }
 ?>
 </body>
