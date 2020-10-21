@@ -15,6 +15,7 @@ function bubbleUpSort($arr){
 }
 echo "<pre>";
 print_r(bubbleUpSort( [2, 3, 2, 5, 6, 1, -2, 3, 14, 12]));
+
 // Sap Xep Giam Dan
 function bubbleDownSort($arr){
     $count = count($arr);

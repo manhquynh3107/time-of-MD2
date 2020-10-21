@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a469a3-5ec6-40a8-ab98-7649a63e62fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MD2/Khai_Bao_Exception/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST_MD2/test Algorthim/test Chon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST_MD2/test Algorthim/ttest chen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Bubble_Sort/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Bubble_Sort/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Insert_Sort/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Insert_Sort/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Selection_Sort/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MD2/Thuat_Toan_Sap_Xep/Selection_Sort/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TEST_MD2/test Algorthim/test NOI BOT.php" beforeDir="false" afterPath="$PROJECT_DIR$/TEST_MD2/test Algorthim/test NOI BOT.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +137,9 @@
       <workItem from="1602911009318" duration="4644000" />
       <workItem from="1603042014620" duration="7042000" />
       <workItem from="1603093659425" duration="6930000" />
-      <workItem from="1603119180361" duration="7781000" />
+      <workItem from="1603119180361" duration="8202000" />
+      <workItem from="1603204297888" duration="5860000" />
+      <workItem from="1603242103220" duration="5572000" />
     </task>
     <servers />
   </component>
@@ -216,20 +220,20 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="489" y="369" key="ComposerInitDialogKey/0.0.1440.900@0.0.1440.900" timestamp="1602773273632" />
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1602951234328">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1603267774289">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1602813783806" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1603267774289" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.827@0.23.1440.827" timestamp="1602951234328" />
     <state x="509" y="153" key="NewPhpClassDialog" timestamp="1603155326758">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="509" y="153" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1603155326758" />
     <state x="509" y="160" key="NewPhpClassDialog/0.23.1440.808@0.23.1440.808" timestamp="1602222297081" />
-    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1603174097858">
+    <state x="543" y="372" key="NewPhpFileDialog" timestamp="1603255449853">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1603174097858" />
+    <state x="543" y="372" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1603255449853" />
     <state x="543" y="357" key="NewPhpFileDialog/0.23.1440.808@0.23.1440.808" timestamp="1602431420431" />
     <state x="229" y="66" key="SettingsEditor" timestamp="1601978203189">
       <screen x="0" y="23" width="1440" height="808" />
@@ -248,10 +252,14 @@
     </state>
     <state x="173" y="246" width="1267" height="492" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1602653143786" />
     <state x="469" y="244" key="com.jetbrains.php.test.PhpNewTestDialog/0.23.1440.808@0.23.1440.808" timestamp="1602052692280" />
-    <state x="369" y="184" width="700" height="530" key="recent.locations.popup" timestamp="1603096531658">
+    <state width="600" height="428" key="javadoc.popup" timestamp="1603262547904">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="369" y="184" width="700" height="530" key="recent.locations.popup/0.0.1440.900@0.0.1440.900" timestamp="1603096531658" />
+    <state width="600" height="428" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1603262547904" />
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup" timestamp="1603268051138">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup/0.0.1440.900@0.0.1440.900" timestamp="1603268051138" />
     <state x="567" y="231" key="refactoring.ChangeSignatureDialog" timestamp="1602664079771">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
